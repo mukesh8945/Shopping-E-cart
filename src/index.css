@@ -1,0 +1,22 @@
+.nav-bar {
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    color: white;
+}
+
+.brand {
+    font-weight: bolder;
+    width: 20%;
+    text-align: center;
+}
+
+.serch-bar {
+    width: 60%;
+}
+
+.serch-bar input {
+    width: 60%;
+    text-align: center;
+}
